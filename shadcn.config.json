@@ -1,0 +1,7 @@
+{
+  "components": "components",
+  "utils": "lib/utils.ts",
+  "tailwind": "tailwind.config.ts",
+  "tsx": true,
+  "importAlias": "@/*"
+}
